@@ -85,7 +85,7 @@ PVOID TwAllocateVirtualMem(HANDLE pid,ULONGLONG size, DWORD Protect)
 ```
 
 ### Worth to mention
-This is true—Battleye is not as good compared to modern anti-cheats like EAC, for example, which does a much better job. However, Battleye is not an anti-cheat to underestimate. It can detect overlays, function hooking, and unlike EAC, which has a public SDK, Battleye adds itself to the game. The game can also communicate with BEDaisy.sys, which provides more adjustable detections for game developers.
+This is true Battleye is not as good compared to modern anti-cheats like EAC, for example, which does a much better job. However, Battleye is not an anti-cheat to underestimate. It can detect overlays, function hooking, and unlike EAC, which has a public SDK, Battleye adds itself to the game. The game can also communicate with BEDaisy.sys, which provides more adjustable detections for game developers.
 
 But in my opinion, EAC is much better and harder to bypass since they are testing TPM banning on Rust. I hope this repo provides a good overview of the situation. You can also check out my EAC research if you're interested.
 
