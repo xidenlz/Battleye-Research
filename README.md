@@ -89,4 +89,4 @@ This is true Battleye is not as good compared to modern anti-cheats like EAC, fo
 
 But in my opinion, EAC is much better and harder to bypass since they are testing TPM banning on Rust. I hope this repo provides a good overview of the situation. You can also check out my EAC research if you're interested.
 
-This is just research I’ve done to gain knowledge, and now I’m sharing it with you guys. I’ve provided the stalk walk function, BEDaisy.sys dump and devirtualized. so happy reversing, y'all!
+This is just research I’ve done to gain knowledge, and now I’m sharing it with you guys. I’ve provided the stalk walk function, BEDaisy.sys dump and devirtualized. so happy reversing, y'all.
