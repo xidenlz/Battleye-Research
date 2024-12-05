@@ -1,4 +1,4 @@
-## Bypass-Battleye
+## Introduction
 I have finally finished my Battleye research and found out it's really bad and outdated. All you need to do is clean your APCs and avoid the stalk walk, which I will explain in this repo. I will try to keep it as simple as I can. Once you finish reading, you will have a very detailed bypass for Battleye. there is no bypass provided by me. I won’t share my own methods, but I will provide something better than a bypass, Which is **knowledge**.
 
 ### Detection methods
